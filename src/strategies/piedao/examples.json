@@ -4,6 +4,7 @@
         "strategy": {
             "name": "piedao",
             "params": {
+                "veDOUGH": "0xE6136F2e90EeEA7280AE5a0a8e6F48Fb222AF945",
                 "BPT": "0xFAE2809935233d4BfE8a56c2355c4A2e7d1fFf1A",
                 "doughv1": "0x5f5e9ed11344dadc3a08688e5f17e23f6a99bf81",
                 "doughv2": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
@@ -14,9 +15,9 @@
         },
         "network": "1",
         "addresses": [
-            "0x66827bcd635f2bb1779d68c46aeb16541bca6ba8",
+            "0x0810c422e4abd05c752618b403d26cf60bb50b5c",
             "0x635b230c3fdf6a466bb6dc3b9b51a8ceb0659b67"
         ],
-        "snapshot": 11350000
+        "snapshot": 13315656
     }
 ]
